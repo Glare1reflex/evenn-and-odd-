@@ -1,3 +1,4 @@
+#While True цыкл 
 while True:
     number = input("Введите число: ")
 
